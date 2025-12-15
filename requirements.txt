@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+# Elige una:
+psycopg2-binary  # Si usas PostgreSQL
+# mysqlclient    # Si usas MySQL
+# pymongo        # Si usas MongoDB (si cambiaste el modelo de DB)
